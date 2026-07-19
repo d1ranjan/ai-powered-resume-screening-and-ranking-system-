@@ -89,7 +89,7 @@ Detailed documentation on system architecture, API endpoints, and configuration 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/vectornguyen76/resume-ranking.git
+   git clone https://github.com/d1ranjan/ai powered screening and ranking system.git
    ```
 
 2. **Configure Environment**:
